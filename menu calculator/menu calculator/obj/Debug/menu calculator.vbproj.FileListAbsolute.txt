@@ -1,0 +1,20 @@
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\bin\Debug\menu calculator.exe.config
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\bin\Debug\menu calculator.exe
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\bin\Debug\menu calculator.pdb
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\bin\Debug\menu calculator.xml
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.vbprojResolveAssemblyReference.cache
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu_calculator.Resources.resources
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.vbproj.GenerateResource.Cache
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.exe
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.xml
+c:\users\kids\documents\visual studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.pdb
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\bin\Debug\menu calculator.exe.config
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\bin\Debug\menu calculator.exe
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\bin\Debug\menu calculator.pdb
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\bin\Debug\menu calculator.xml
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu_calculator.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.exe
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.xml
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\menu calculator\menu calculator\obj\Debug\menu calculator.pdb
